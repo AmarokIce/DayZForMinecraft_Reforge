@@ -1,0 +1,89 @@
+#DayZ Language File
+item.drinkCanBeer-empty.name=空啤酒罐
+item.drinkCanLemonSoda-empty.name=空檸檬蘇汽水瓶
+item.drinkCanCola-empty.name=空可樂瓶
+item.drinkCanEnergyDrink-empty.name=空動能飲料瓶
+item.drinkCanOrangeSoda-empty.name=空橙子汽水瓶
+
+item.drinkCanBeer.name=啤酒
+item.drinkCanLemonSoda.name=檸檬蘇打汽水
+item.drinkCanCola.name=可樂
+item.drinkCanEnergyDrink.name=動能飲料
+item.drinkCanOrangeSoda.name=橙子蘇打汽水
+
+item.cannedBeans-empty.name=空啤酒罐
+item.cannedSoup-empty.name=空湯罐
+item.cannedPasta-empty.name=空意麵罐
+item.cannedFish-empty.name=空魚罐
+item.cannedPickles-empty.name=空泡菜罐
+item.cannedFruit-empty.name=空水果罐
+
+item.cannedBeans.name=罐裝啤酒
+item.cannedSoup.name=湯罐頭
+item.cannedPasta.name=意大利麵罐頭
+item.cannedFish.name=魚罐頭
+item.cannedPickles.name=罐裝醃菜
+item.cannedFruit.name=水果罐頭
+
+item.gunAk74u.name=Aks-74 U 短突擊步槍
+item.gunMakarov.name=馬卡洛夫 手槍
+item.gunRemington.name=雷明頓 霰彈槍
+item.gunLeeEnfield.name=李·恩菲德爾 步槍
+item.gunGlock17.name=格洛克17 手槍
+item.gunDoubleBarreledShotgun.name=雙管霰彈槍
+item.gunUsp.name=USP 手槍
+item.gunAk74.name=AK-74 突擊步槍
+
+item.ammoAk74u.name=AKs-74U 彈匣
+item.ammoMakarov.name=馬卡洛夫彈匣
+item.ammoRemington.name=雷明頓霰彈
+item.ammoLeeEnfield.name=李·恩菲德爾彈夾
+item.ammoGlock17.name=格洛克17彈匣
+item.ammoDoubleBarreledShotgun.name=雙管霰彈槍霰彈
+item.ammoUsp.name=USP彈匣
+item.ammoAk74.name=AK-47彈匣
+
+item.itemMatches.name=一盒火柴
+item.healBandage.name=繃帶
+item.healBandage.description=可以止住流血。
+item.healAntibiotics.name=抗生素
+item.healAntibiotics.description=可以處理感染。
+item.healBloodbag.name=血袋
+item.healBloodbag.description=看起來可能無法自行使用。
+
+item.camoHelmet.name=Camouflage Helmet
+item.camoChest.name=Camouflage Shirt
+item.camoLegs.name=Camouflage Pants
+item.camoBoots.name=Camouflage Boots
+
+item.drinkWhiskeyBottle.name=瓶裝威士忌
+item.drinkCiderBottle.name=瓶裝蘋果酒
+item.drinkVodkaBottle.name=瓶裝伏特加
+
+item.meleeBaseballBat.name=棒球棍
+item.meleeBaseballBatNailed.name=釘刺棒球棍
+item.meleePlank.name=木闆
+item.meleePlankNailed.name=釘刺木闆
+item.meleePipe.name=鋼管
+item.meleeCrowbar.name=撬棍
+item.meleeMachete.name=彎刀
+
+tile.barbedWire.name=鐵絲網
+tile.chestLoot.name=戰利品箱
+tile.chainFence.name=鐵絲圍欄
+tile.sandbagBlock.name=沙袋
+tile.nailBlock.name=地刺
+
+thirst.replentish=呃阿，活過來了...
+thirst.thirdwarning=我必須找點水喝...
+thirst.secondwarning=我感覺要脫水了..
+thirst.firstwarning=我感覺有些口渴了...
+
+entity.Crawler.name=爬蟲僵屍
+entity.DayZZombie.name=僵屍
+generator.DAYZBASE=末日之源
+generator.DAYZSNOW=末日之雪
+itemGroup.creativeTabDayZ=DayZ
+death.attack.bleedOut=%1$s 失血過多。
+death.attack.zombieInfection=%1$s 變成了僵屍。
+death.attack.dehydration=%1$s 脫水而亡。

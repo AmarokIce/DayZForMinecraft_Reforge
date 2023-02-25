@@ -1,0 +1,88 @@
+#DayZ Language File
+item.drinkCanBeer-empty.name=Empty Beer
+item.drinkCanLemonSoda-empty.name=Empty Lemon Soda
+item.drinkCanCola-empty.name=Empty Cola
+item.drinkCanEnergyDrink-empty.name=Empty Energy Drink
+item.drinkCanOrangeSoda-empty.name=Empty Orange Soda
+
+item.drinkCanBeer.name=Beer
+item.drinkCanLemonSoda.name=Lemon Soda
+item.drinkCanCola.name=Cola
+item.drinkCanEnergyDrink.name=Energy Drink
+item.drinkCanOrangeSoda.name=Orange Soda
+
+item.cannedBeans-empty.name=Empty Canned Beans
+item.cannedSoup-empty.name=Empty Canned Soup
+item.cannedPasta-empty.name=Empty Canned Pasta
+item.cannedFish-empty.name=Empty Canned Fish
+item.cannedPickles-empty.name=Empty Canned Pickles
+item.cannedFruit-empty.name=Empty Canned Fruit
+
+item.cannedBeans.name=Canned Beans
+item.cannedSoup.name=Canned Soup
+item.cannedPasta.name=Canned Pasta
+item.cannedFish.name=Canned Fish
+item.cannedPickles.name=Canned Pickles
+item.cannedFruit.name=Canned Fruit
+
+item.gunAk74u.name=Ak-74u
+item.gunMakarov.name=Makarov
+item.gunRemington.name=Remington
+item.gunLeeEnfield.name=Lee Enfield
+item.gunGlock17.name=Glock 17
+item.gunDoubleBarreledShotgun.name=Double-barreled Shotgun
+item.gunUsp.name=USP
+item.gunAk74.name=Ak-74
+
+item.ammoAk74u.name=Ak-74u Magazine
+item.ammoMakarov.name=Makarov Magazine
+item.ammoRemington.name=Remington Shells
+item.ammoLeeEnfield.name=Lee Enfield Magazine
+item.ammoGlock17.name=Glock 17 Magazine
+item.ammoDoubleBarreledShotgun.name=Double-barreled Shotgun Shells
+item.ammoUsp.name=USP Magazine
+item.ammoAk74.name=Ak-74 Magazine
+
+item.itemMatches.name=Book of Matches
+item.healBandage.name=Bandage
+item.healBandage.description=Stops bleeding
+item.healAntibiotics.name=Antibiotics
+item.healAntibiotics.description=Stops Infection
+item.healBloodbag.name=BloodBag
+item.healBloodbag.description=Cannot be self-applied
+item.camoHelmet.name=Camouflage Helmet
+item.camoChest.name=Camouflage Shirt
+item.camoLegs.name=Camouflage Pants
+item.camoBoots.name=Camouflage Boots
+
+item.drinkWhiskeyBottle.name=Bottle of Whiskey
+item.drinkCiderBottle.name=Bottle of Cider
+item.drinkVodkaBottle.name=Bottle of Vodka
+
+item.meleeBaseballBat.name=Baseball Bat
+item.meleeBaseballBatNailed.name=Nailed Baseball Bat
+item.meleePlank.name=Plank
+item.meleePlankNailed.name=Nailed Plank
+item.meleePipe.name=Steel Pipe
+item.meleeCrowbar.name=Crowbar
+item.meleeMachete.name=Machete
+
+tile.barbedWire.name=Barbed Wire
+tile.chestLoot.name=Loot Chest
+tile.chainFence.name=Chain-link Fence
+tile.sandbagBlock.name=Sandbags
+tile.nailBlock.name=Nails
+
+thirst.replentish=Ahh, much better...
+thirst.thirdwarning=I should find some water soon...
+thirst.secondwarning=I feel quite thirsty now...
+thirst.firstwarning=My mouth feels a little dry...
+
+entity.Crawler.name=Crawler
+entity.DayZZombie.name=Zombie
+generator.DAYZBASE=Day Z Original
+generator.DAYZSNOW=Day Z Snow
+itemGroup.creativeTabDayZ=Day Z
+death.attack.bleedOut=%1$s lost too much blood
+death.attack.zombieInfection=%1$s became a zombie
+death.attack.dehydration=%1$s died of dehydration
