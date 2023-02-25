@@ -73,8 +73,7 @@ public class CommonProxy {
 
     @SubscribeEvent
     public void playerTickEvent(TickEvent.PlayerTickEvent event) {
-        // if (Config.thirstEnabled && !event.player.capabilities.isCreativeMode) PlayerContainer.onTick(event.player);
-        if (Config.thirstEnabled) PlayerContainer.onTick(event.player);
+        if (Config.thirstEnabled && !event.player.capabilities.isCreativeMode) PlayerContainer.onTick(event.player);
     }
 
     @SubscribeEvent
